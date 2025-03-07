@@ -1,0 +1,16 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-66179437.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/images/boba.jpg": {
+    "file": "assets/boba-ff2a258b.jpg",
+    "src": "resources/images/boba.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-02317797.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
